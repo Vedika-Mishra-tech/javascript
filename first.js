@@ -8,4 +8,6 @@ let country = "india"
 let isStudent = true
 let hobbies = "reading"
 console.table([name, age, city, country, isStudent, hobbies])
-console.log(`my name is ${name} and i am ${age} years old. I live in ${city}, ${country}. I am a student: ${isStudent}. My hobbies include ${hobbies}.`)
+console.log(`my name is ${name} and i am ${age} years old. 
+I live in ${city}, ${country}. I am a student: ${isStudent}.
+ My hobbies include ${hobbies}.`)
